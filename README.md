@@ -1,2 +1,2 @@
 # mlprojects
-Consists of Machine Learning projects
+ Machine Learning related projects
